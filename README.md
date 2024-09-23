@@ -23,7 +23,7 @@ Step 6: Predict placement status on the test data
 
 Step 7: Evaluate accuracy, classification report. Print the predicted value.
 
-Step 8: End the program.
+Step 8: Stop the program.
 
 ## Program:
 
