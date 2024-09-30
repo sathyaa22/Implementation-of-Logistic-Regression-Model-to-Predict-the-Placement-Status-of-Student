@@ -87,9 +87,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
+Accuracy: 
+
 ![Screenshot 2024-09-05 094730](https://github.com/user-attachments/assets/cc37b616-2db3-420f-8e36-7f8326b0b157)
 
+Classification report:
+
 ![Screenshot 2024-09-05 094738](https://github.com/user-attachments/assets/5d61b80f-cf7a-43b7-bcd4-82b0cb1b76bb)
+
+Prediction: 
 
 ![Screenshot 2024-09-05 094832](https://github.com/user-attachments/assets/5def2ad7-11c8-40fe-9a38-11a8f582c22c)
 
